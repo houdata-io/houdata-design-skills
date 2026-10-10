@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "houdata-skills",
+  "name": "houdata-design-skills",
   "version": "0.1.0",
   "description": "Houdata brand, product UI, diagram, and document skills."
 }
