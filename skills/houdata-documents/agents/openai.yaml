@@ -1,0 +1,4 @@
+interface:
+  display_name: "Houdata Documents"
+  short_description: "Create and review editable Houdata documents"
+  default_prompt: "Use $houdata-documents to create or migrate an editable Houdata document."

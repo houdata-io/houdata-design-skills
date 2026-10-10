@@ -1,0 +1,4 @@
+interface:
+  display_name: "Houdata Brand UI"
+  short_description: "Apply shared Houdata brand guidance"
+  default_prompt: "Use Houdata Brand UI to build or review a branded interface."

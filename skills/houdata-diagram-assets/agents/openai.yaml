@@ -1,0 +1,4 @@
+interface:
+  display_name: "Houdata Diagram Assets"
+  short_description: "Create Houdata diagrams and technical visuals"
+  default_prompt: "Use Houdata Diagram Assets to design or review Houdata diagrams and presentation visuals."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Houdata Product UI"
+  short_description: "Build the Houdata Bulma operations console"
+  default_prompt: "Use Houdata Product UI to build or review the Houdata admin console."

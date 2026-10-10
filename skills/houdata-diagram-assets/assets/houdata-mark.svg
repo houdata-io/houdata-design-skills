@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1254" height="1254" viewBox="0 0 1254 1254"
+     role="img" aria-labelledby="title description">
+  <title id="title">Houdata symbol</title>
+  <desc id="description">Houdata's four folded planes joined by an accent-teal bridge.</desc>
+  <g id="neutral-planes" fill="#F7F7F2">
+    <path d="M185 117 421 229 421 486 185 566Z"/>
+    <path d="M1069 117 835 229 835 486 1069 566Z"/>
+    <path d="M185 654 421 654 421 900 185 1008Z"/>
+    <path d="M1069 654 835 654 835 900 1069 1008Z"/>
+  </g>
+  <path id="accent-bridge" fill="#2FAF9F"
+        d="M185 582 628 424 1069 582 1069 654 835 654 628 604 421 654 185 654Z"/>
+</svg>
