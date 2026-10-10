@@ -1,11 +1,9 @@
 # Publication checklist
 
-The following release setup remains before the first public push:
+The initial public repository is available at https://github.com/houdata-io/houdata-design-skills. Resolve these items before a tagged release and team-wide rollout:
 
-- Confirm Houdata has authority to apply the selected license to all original skill text and diagram icons.
-- Name maintainers and reviewers for the Houdata organization repository `houdata-design-skills`.
+- Name maintainers and reviewers for the public Houdata repository `houdata-design-skills` (currently owned by `houdata-io`).
 - Define release versioning, changelog, compatibility policy, and release review.
-- Confirm the publishing account has access to create and push to the Houdata organization repository.
 - Review public content and confirm the CC BY 4.0 scope and excluded brand/font materials are clear.
 - Representative activation and resource-resolution review in the intended Codex environment.
 
